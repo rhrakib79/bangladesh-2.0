@@ -1,0 +1,189 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Fira Sans;
+}
+/* banner section start */
+.banner-section{
+    display: flex;
+    height: 560px;
+    width: 1280px;
+    background-color: #C6E4D6;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 24px;
+    padding: 80px 50px ;
+    margin-bottom: 80px;
+}
+
+.banner-text{
+    height: 326px;
+    width: 622px;
+    margin: 117px  30px;
+}
+.banner-title{
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+.banner-sub-title{
+    color: rgb(14, 14, 14);
+     font-size: 56px;
+    font-weight: 700;
+    margin-bottom: 24px;
+
+}
+.banner-btn{
+    padding: 17px 34px 17px 34px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* vision section start */
+.vision-section{
+    width: 1600px;
+    margin: 0 auto;
+    padding-bottom: 32px;
+}
+.box-vision{
+    width: 1380px;
+    margin: 0 auto;
+}
+.card-section{
+    display: flex;
+}
+.card-bg-1{
+    width: 410.67px;
+ height: 270px;
+     padding: 32px;
+     border-radius: 16px;
+     background: rgba(84, 144, 245, 0.2);
+     margin-right: 24px;
+ }
+ .card-bg-2{
+    width: 410.67px;
+    height: 270px;
+    padding: 32px;
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+    margin-right: 24px;
+}
+
+.card-bg-3{
+    width: 410.67px;
+    height: 270px;
+    padding: 32px;
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+}
+.card-img-1{
+    height: 62px;
+    width: 62px;
+    margin-bottom: 25px;
+}
+.card-section-title-1{
+    color: rgba(14, 14, 14, 0.8);
+font-size: 20px;
+font-weight: 700;
+margin-bottom: 12px;
+}
+
+
+.cared-section-sub-title-1{
+ color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 24px;
+width: 346px;
+}
+.card-section-btn-1{
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+
+}
+.card-section-btn-2{
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+
+}
+.card-section-btn-3{
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+
+}
+.vision-section-title{
+ color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight: 700;
+margin-bottom: 24px;
+}
+.vision-section-sub-title{
+color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 32px;
+}
+/* vision section close  */
+.quote{
+    width: 1380px;
+    margin: 0 auto;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+padding: 48px 24px 48px 24px;
+height: 256px;
+margin-bottom: 80px;
+text-align: left;
+}
+.body{
+    background-color: #F5F5F5;
+}
+.quote-title{
+color: rgba(14, 14, 14, 0.8);
+font-size: 16px;
+font-weight: 400;
+margin-bottom:12px ;
+
+
+}
+.quote-sub-title{
+    color: rgba(14, 14, 14, 0.8);
+font-size: 20px;
+font-weight: 600;
+margin-bottom: 4px;
+
+}
+.job-title{
+    color: rgba(14, 14, 14, 0.6);
+
+font-size: 16px;
+font-weight: 400;
+}
+.back-img{
+    background-image: url("assets/quote-bg.png");
+    background-position: top left;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
