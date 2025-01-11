@@ -407,3 +407,15 @@ font-weight: 400;
 button:hover{
 background-color: blue;
 }
+.taka-2:hover{
+    background-color: aquamarine;
+}
+.taka-3:hover{
+    background-color: rgb(170, 16, 132);
+}
+.taka-4:hover{
+    background-color: rgb(17, 219, 152);
+}
+.taka-5:hover{
+    background-color: rgb(100, 7, 58);
+}
