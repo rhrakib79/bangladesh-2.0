@@ -256,3 +256,79 @@ font-size: 18px;
 font-weight: 600;
 border: none;
 }
+/* news section close */
+.donate-section{
+    width: 1380px;
+    height: 464px;
+    margin: 0 auto;
+    text-align: center;
+}
+.donate-title{
+    color: rgb(14, 14, 14);
+
+font-size: 40px;
+font-weight: 700;
+
+margin-bottom: 24px;
+}
+.donate-sub-title{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+
+text-align: center;
+margin-bottom: 32px;
+}
+.donate-box{
+    display:flex ;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+.taka-1{
+padding: 40px;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+margin-right: 24px;
+background: rgb(255, 255, 255);
+margin-bottom: 32px;
+}
+.taka-2{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+    background: rgb(198, 228, 214);
+}
+#text-1{
+    padding: 20px 40px 20px 40px;
+    width: 1032px;
+height: 34px;
+border: none;
+color: rgba(14, 14, 14, 0.3);
+
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+margin-bottom: 32px;
+
+}
+.done{
+    width: 151px;
+height: 73px;
+padding: 17px 34px 17px 34px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.1);
+border-radius: 8px;
+background: rgb(0, 106, 80);
+margin-bottom: 80px;
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+}
