@@ -42,6 +42,7 @@
     color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 600;
+    border: none;
 }
 
 /* vision section start */
@@ -257,6 +258,7 @@ font-weight: 600;
 border: none;
 }
 /* news section close */
+/* donate section start */
 .donate-section{
     width: 1380px;
     height: 464px;
@@ -317,7 +319,7 @@ margin-bottom: 32px;
 }
 .done{
     width: 151px;
-height: 73px;
+    height: 56px;
 padding: 17px 34px 17px 34px;
 box-sizing: border-box;
 border: 1px solid rgba(14, 14, 14, 0.1);
@@ -331,4 +333,77 @@ font-weight: 600;
 line-height: 22px;
 letter-spacing: 0%;
 text-align: left;
+}
+.done:hover{
+    background-color: blue;
+}
+/* doante section close  */
+/* Subscribe Newsletter start */
+.newsletter{
+    width: 1180px;
+    height: 225px;
+border-radius: 24px;
+padding: 80px 100px 80px 100px;
+background: rgb(198, 228, 214);
+margin: 0 auto;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-bottom: 50px;
+}
+.news-text{
+    color: rgb(14, 14, 14);
+
+font-size: 40px;
+font-weight: 700;
+
+margin-bottom: 16px;
+}
+.news-tex2{
+    width: 622px;
+height: 48px;
+color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+margin: 0 auto;
+
+}
+#email{
+    width: 600px;
+height: 17px;
+padding: 18px 40px 18px 40px;
+border-radius: 8px 0px 0px 8px;
+border: none;
+background: rgb(255, 255, 255);
+
+}
+
+
+
+.submit-2{
+    width: 150px;
+    height: 54px;
+    border-radius: 0px 8px 8px 0px;
+    background: rgb(0, 106, 80);
+    border: none;
+    margin-left: -4px;
+    color: rgb(255, 255, 255);
+
+font-size: 18px;
+font-weight: 600;
+margin-bottom: 30px;
+
+}
+.submit-2:hover{
+    background-color: blue;
+}
+.ses{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+}
+/* Subscribe Newsletter close */
+
+button:hover{
+background-color: blue;
 }
